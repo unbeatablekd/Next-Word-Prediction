@@ -1,5 +1,3 @@
-Here's a detailed description you can use in your `README.md` file for the "Predict Next Word" project:
-
 ---
 
 # **Predict Next Word using LSTM**
